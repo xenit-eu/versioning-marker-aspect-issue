@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="example:contentModel" xmlns="http://www.alfresco.org/model/dictionary/1.0">
+
+    <!-- Optional meta-data about the model -->
+    <description>Example Document Model</description>
+    <author>Daan Kerkhofs</author>
+    <version>1.0</version>
+
+    <!-- Custom namespace for the Example company -->
+    <namespaces>
+        <namespace uri="example.model" prefix="example"/>
+    </namespaces>
+
+    <!-- ===============================================================================================================
+        Constraints, Types, and Aspects go here...
+        -->
+
+    <aspects>
+        <aspect name="example:marker">
+            <title>Example Marker Aspect</title>
+        </aspect>
+    </aspects>
+
+</model>
