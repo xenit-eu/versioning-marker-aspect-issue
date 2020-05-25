@@ -1,3 +1,6 @@
+Issue acknowledged by Alfresco and fixed:   https://issues.alfresco.com/jira/browse/MNT-19773
+
+
 # Alfresco VersionService - issue with marker aspects
 
 ## Description of the problem
